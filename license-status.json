@@ -1,9 +1,7 @@
 {
-  "issuedAt": "2026-11-24T13:36:07.773Z",
-  "revoked": [
-    "RD-V4CY-EG0Q"
-  ],
-  "seq": 6,
-  "sig": "lxekaL3XEC07R4S+RNRIttTOBWvLfzpwSckaqgFVw93cPKCx0UoLuTrPMQZt422aj28/ue/fjf7sdRh1rQuzDg==",
+  "issuedAt": "2026-11-24T13:50:34.366Z",
+  "revoked": [],
+  "seq": 7,
+  "sig": "v/6gs6kXIg7shNzrGqEqy0BfKZCDCbnX3b7NsoFtvHzue2/M3XSwS2Rlu5vZjxWQTZVy25148hxsFE8AbYkpDQ==",
   "v": 1
 }
